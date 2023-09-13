@@ -15,8 +15,7 @@
 
 <br/>  
 
-+ ![sumy7](https://komarev.com/ghpvc/?username=Changzhanhe)
-+ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=Changzhanhe.profile)
++ ![Changzhanhe](https://komarev.com/ghpvc/?username=Changzhanhe)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changzhanhe&layout=compact)](https://github.com/Changzhanhe/github-readme-stats)
