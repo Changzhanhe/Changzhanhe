@@ -1,7 +1,7 @@
 ### Hi there! I'm Chang Zhanhe!🧚‍♀️  
   
 
--  I’m currently a PhD student at Tongji University majoring in Bioinformatics.🙇‍♀️  
+-  I’m a PhD student at Tongji University majoring in Bioinformatics.🙇‍♀️  
   
 
 - 🌱 I’m currently doing research in Gao Lab.  
